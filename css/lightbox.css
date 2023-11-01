@@ -1,3 +1,6 @@
+.test-body {
+  background-color: blue;
+}
 body.lb-disable-scrolling {
   overflow: hidden;
 }
