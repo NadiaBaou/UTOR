@@ -1,0 +1,20 @@
+<html>
+	<head>	
+		<title> Nadia's Website </title>
+	</head>
+	<body>
+		<ul>
+		  <li><a href="index.html">Home</a></li>
+		  <li><a href="about.html">About me</a></li>
+		  <li><a href="computer.html">Computer</a></li>
+	
+		</ul>
+
+			<h1> More pictures about computers </h1>
+			
+			<img src='https://miro.medium.com/v2/resize:fit:1250/format:webp/1*C-zXmTMHObZWyZBUbdruGg.jpeg' width="350px">
+			<img src='https://bestfriends.org/sites/default/files/styles/image_medium/public/image/CatrickComputer6351sak_0.jpg?h=05b24aa2&itok=PPmyRPm3'>
+			<p> If you need more Help <br/>
+			<a href="https://www.google.com"> Go to Google!!!!</a> </p>
+	</body>
+</html>
